@@ -44,3 +44,10 @@ When we evaluate the performance of our model for each food item separately, we 
     <td><img src="https://github.com/meryemsakin/yolov8-custom-food-item-detection-segmentation/blob/main/r4.jpeg" width="600" height="400"></td>
     <td><img src="https://github.com/meryemsakin/yolov8-custom-food-item-detection-segmentation/blob/main/r5.jpeg" width="600" height="400"></td>
  </table>
+ 
+## Conclusion and Future Work
+Our YOLOv8-based model has demonstrated promising results in food item detection and segmentation. With high mAP scores, fast processing speeds, and accurate segmentations, it shows potential for a range of applications, from inventory management in supermarkets to ingredient tracking in restaurants.
+
+Despite the already satisfactory performance, there's always room for improvement. Future work could focus on further increasing the model's accuracy and expanding the range of food items it can detect. Integrating the model into a real-time application, like a surveillance system for a kitchen or supermarket, could be another exciting avenue to explore.
+
+We hope that this work serves as a solid foundation for anyone interested in food item detection and segmentation. Feel free to use our code, adapt it to your needs, and improve upon it. Any contributions to enhance the capabilities of this model are very welcome.
