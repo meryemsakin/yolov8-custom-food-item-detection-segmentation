@@ -3,6 +3,8 @@
 
 <td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r10.jpeg" width="500" height="500"></td>
 
+## Metrics
+![Accuracy](https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r7.png)
 
 
 
