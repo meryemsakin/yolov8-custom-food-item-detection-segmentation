@@ -37,7 +37,7 @@ When we evaluate the performance of our model for each food item separately, we 
   <tr>
     <td>YOLOv8s Object Segmentation</td>
   </tr>
-</table>
+  <tr> 
     <td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/rs.jpeg" width="600" height="400"></td>
     <td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r6.jpeg" width="600" height="400"></td>
   </tr>
