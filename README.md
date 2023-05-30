@@ -6,6 +6,9 @@
 ## Metrics
 ![Accuracy](https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r7.png)
 
+## Confusion Matrix
+![CMatrix](https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r8.png)
+
 
 
 ### Results
