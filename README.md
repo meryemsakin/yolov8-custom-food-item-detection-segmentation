@@ -32,14 +32,12 @@ When we evaluate the performance of our model for each food item separately, we 
 ## Confusion Matrix
 ![CMatrix](https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r8.png)
 
-
-
 ### Results
 <table>
   <tr>
     <td>YOLOv8s Object Segmentation</td>
   </tr>
-  <tr>
+</table>
     <td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/rs.jpeg" width="600" height="400"></td>
     <td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r6.jpeg" width="600" height="400"></td>
   </tr>
