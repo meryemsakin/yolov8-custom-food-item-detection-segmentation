@@ -11,12 +11,6 @@ The model presents a range of applications for detection and segmentation of foo
 
 Leveraging the powerful deep learning algorithm and extensive capabilities of YOLOv8, this model can detect and segment a wide range of food items quickly and accurately. The aim of this model is to maximize accuracy, speed, and efficiency in food detection and segmentation.
 
-
-
-
-
-
-
 ## Metrics
 ![Accuracy](https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r7.png)
 
@@ -30,7 +24,7 @@ When we evaluate the performance of our model for each food item separately, we 
 
 
 ## Confusion Matrix
-![CMatrix](https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r8.png)
+<td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r8.png" width="500" height="500"></td>
 
 ### Results
 <table>
