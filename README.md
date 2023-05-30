@@ -24,7 +24,7 @@ When we evaluate the performance of our model for each food item separately, we 
 
 
 ## Confusion Matrix
-<td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r8.png" width="500" height="500"></td>
+<td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r8.png" width="600" height="500"></td>
 
 ### Results
 <table>
