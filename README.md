@@ -1,4 +1,4 @@
-# yolov8-custom-segmentation
+# yolov8-custom-food-item-detection-segmentation
 
 This repository contains a model based on YOLOv8 (You Only Look Once version 8). This model is designed to provide advanced object detection and segmentation capabilities. Specifically, this model has been trained to detect and segment food items such as oil, jam, tomatoes, pasta, rice, soda, and tomato sauce, found in a custom food dataset.
 
