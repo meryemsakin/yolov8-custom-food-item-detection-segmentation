@@ -44,4 +44,6 @@ When we evaluate the performance of our model for each food item separately, we 
     <td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/rs.jpeg" width="600" height="400"></td>
     <td><img src="https://github.com/meryemsakin/yolov8-custom-segmentation/blob/main/r6.jpeg" width="600" height="400"></td>
   </tr>
+    <td><img src="https://github.com/meryemsakin/yolov8-custom-food-item-detection-segmentation/blob/main/r4.jpeg" width="600" height="400"></td>
+    <td><img src="https://github.com/meryemsakin/yolov8-custom-food-item-detection-segmentation/blob/main/r5.jpeg" width="600" height="400"></td>
  </table>
